@@ -1,0 +1,21 @@
+h1{
+  background-color: #e2e2e2;
+  padding:5px;
+}
+
+body{
+  font-family: "Arial"  
+}
+
+li{
+  list-style: none;
+}
+.main-image{
+  border: solid 4px black;
+  border-radius: 50%;
+  margin-top: 5%;
+}
+
+.section-title{
+  text-transform: capitalize;
+}
